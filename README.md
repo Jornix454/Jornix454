@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jornix454
 - 👀 I’m interested in making a game for my kids to play.
 - 🌱 I’m currently learning unity.
-- 💞️ I’m looking to collaborate on 2d multiplayer base building game.
+- 💞️ I’m looking to collaborate on 3D RTS game.
 - 📫 How to reach me email: aza454@hotmail.com or Jornix in discord.
 
 <!---
